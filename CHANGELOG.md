@@ -2,6 +2,8 @@
 
 # palenight-intellij-theme Changelog
 
+## [1.0.2] - add WebStorm 2023.3 supporting (build 233.*)
+
 ## [Unreleased]
 ### Added
 
