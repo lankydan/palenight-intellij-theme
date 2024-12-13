@@ -92,6 +92,7 @@ intellijPlatform {
         ides {
             ides(pluginVerifierIdeVersions.split(","))
         }
+        freeArgs = listOf("-mute", "TemplateWordInPluginName")
     }
 
 //    downloadSources.set(platformDownloadSources.toBoolean())
