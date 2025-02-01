@@ -482,7 +482,7 @@
     },
     "PopupMenu": {
       "background": "#292D3E",
-      "border": "2,0,2,0",
+      "border": "6,0,6,0",
       "foreground": "#A6ACCD",
       "translucentBackground": "#292D3E"
     },
